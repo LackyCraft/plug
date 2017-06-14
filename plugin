@@ -1,0 +1,6 @@
+name: HaKaK
+author: Comand Lc(feet krendell)
+main: krendell\Main
+version: 0.3
+api: [1.13.0]
+load: STARTUP
