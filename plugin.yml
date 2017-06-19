@@ -1,6 +1,6 @@
 name: HaKaK
 author: Comand Lc(feet krendell)
-main: krendell\Main
+main: NewmcpeAndDany\Main
 version: 0.3
-api: [1.13.0]
+api: [3.0.0]
 load: STARTUP
